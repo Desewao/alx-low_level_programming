@@ -1,1 +1,1 @@
-My readme for C-hello_world task
+My readme file for 0x00-hello_world
